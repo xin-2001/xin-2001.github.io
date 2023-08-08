@@ -1,0 +1,30 @@
+/*字體*/
+/*Leckerli One*/
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+/*Zen Maru Gothic*/
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap');
+/*Kaisei HarunoUmi*/
+@import url('https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@400;500;700&display=swap');
+/*ZCOOL QingKe HuangYou*/
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+QingKe+HuangYou&&display=swap');
+/*Klee One*/
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap');
+/*Mochiy Pop One*/
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+One&display=swap');
+/*Rampart One*/
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+/*Ma Shan Zheng*/
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
+/*ZCOOL KuaiLe*/
+@import url('https://fonts.googleapis.com/css2?family=ZCOOL+KuaiLe&display=swap');
+/*Hachi Maru Pop*/
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+/*Zhi Mang Xing*/
+@import url('https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&display=swap');
+
+@font-face {
+  font-family: 'I_Ngaan';
+  src: url('I-Ngaan/I-Ngaan.ttf') format('truetype'),
+  		url('I-Ngaan/I-Ngaan.woff') format('woff'),
+  		url('I-Ngaan/I-Ngaan.svg') format('svg');
+}
