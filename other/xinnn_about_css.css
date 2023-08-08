@@ -1,0 +1,66 @@
+/*about_css*/
+@charset="UFT-8";
+body{
+	text-align: center;
+}
+.xin_photo{
+	height: 300px;
+	border-radius: 20px;
+}
+.about_left{
+	padding-top: 30px;
+	margin-left: 20px;
+	float: left;
+	color: #FFF;
+	
+}
+.about_left>p{
+	font-family: 'Caveat','I_Ngaan';
+	line-height: 1px;
+	
+	
+}
+.about_me{
+	text-align: left;
+	line-height: 1px;
+	color: #000;
+}
+.about_me >ul{
+	list-style: none;
+	text-align: left;
+	font-size: 15px;
+	margin-left: -20px;
+	line-height: 1px;
+
+
+}
+.about_right{
+	margin-left: 20px;
+	float: left;
+	text-align: left;
+}
+.about_main{
+	font-size: 30px;
+	
+}
+
+.about_main ul{
+	font-size: 20px;
+	line-height: 22px;
+}
+
+.about_me{
+	font-size: 50px;
+	color: #FFF;
+	font-family: 'Leckerli One';
+	font-weight: 200;
+}
+
+.about_right >div{
+	margin-top: 10px;
+	border: #CCC 1px solid;
+	line-height: 1px;
+	padding-left: 10px;
+	border-radius: 20px;
+	padding-right: 20px;
+}

@@ -8,7 +8,7 @@ body{
 }
 
 /*header bar*/
-ul { /* 取消ul預設的內縮及樣式 */
+header ul { /* 取消ul預設的內縮及樣式 */
         margin: 0;
         padding: 0;
         list-style: none;
@@ -128,6 +128,3 @@ header{
 
 
 /*------------------------*/
-.about_me{
-    font-family: 'I_Ngaan','標楷體';
-}
