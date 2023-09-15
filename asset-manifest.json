@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/xinnn_react/static/css/main.d3d0ce88.css",
+    "main.js": "/xinnn_react/static/js/main.8e43d5ff.js",
+    "static/media/I-Ngaan.svg": "/xinnn_react/static/media/I-Ngaan.91254af8b0c3d2fcce02.svg",
+    "static/media/I-Ngaan.ttf": "/xinnn_react/static/media/I-Ngaan.3fc76ef49c0d77886f60.ttf",
+    "static/media/I-Ngaan.woff": "/xinnn_react/static/media/I-Ngaan.70e8990a607cf7246750.woff",
+    "static/media/xin_photo.jpg": "/xinnn_react/static/media/xin_photo.55044c948693506bbdc6.jpg",
+    "static/media/react.png": "/xinnn_react/static/media/react.2ff0179c04f2df9b2aea.png",
+    "static/media/c-plus.png": "/xinnn_react/static/media/c-plus.24a8f93854ab092f17a7.png",
+    "static/media/joomla.png": "/xinnn_react/static/media/joomla.f9978e63a99723d36f66.png",
+    "static/media/android-studio.png": "/xinnn_react/static/media/android-studio.0c2e509e873632c6609c.png",
+    "static/media/html-5.png": "/xinnn_react/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/css-3.png": "/xinnn_react/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "index.html": "/xinnn_react/index.html",
+    "main.d3d0ce88.css.map": "/xinnn_react/static/css/main.d3d0ce88.css.map",
+    "main.8e43d5ff.js.map": "/xinnn_react/static/js/main.8e43d5ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d0ce88.css",
+    "static/js/main.8e43d5ff.js"
+  ]
+}
